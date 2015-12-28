@@ -7,3 +7,6 @@ Test for Git2.
 
 Hi, All:
 Test for branch task.
+
+Hi Eason,
+Test for 1228.
