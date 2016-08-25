@@ -9,4 +9,4 @@ Hi, All:
 Test for branch task.
 
 Hi Eason,
-Test for 1228.
+Test.
